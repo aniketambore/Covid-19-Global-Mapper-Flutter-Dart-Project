@@ -31,22 +31,22 @@ Since **Colors** is very important because it elevates what is it that we are tr
 
 ## Final Product
 ### 1
-<img src="images/screenshot_1.png" width="80%">
+<img src="images/screenshot_1.png" width="50%">
 
 ### 2
-<img src="images/screenshot_2.png" width="80%">
+<img src="images/screenshot_2.png" width="50%">
 
 ### 3
-<img src="images/screenshot_3.png" width="80%">
+<img src="images/screenshot_3.png" width="50%">
 
 ### 4
-<img src="images/screenshot_4.png" width="80%">
+<img src="images/screenshot_4.png" width="50%">
 
 ### 5
-<img src="images/screenshot_5.png" width="80%">
+<img src="images/screenshot_5.png" width="50%">
 
 ### 6
-<img src="images/screenshot_6.png" width="80%">
+<img src="images/screenshot_6.png" width="50%">
 
 ---
 

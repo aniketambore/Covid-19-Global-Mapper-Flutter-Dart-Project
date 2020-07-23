@@ -19,7 +19,7 @@ Before creating the UI, I focused on the Emphasis of User-Interaction and the ap
 > Good Experience = Good Interaction
 
 While creating the UI for the Application at the starting point, I am just having the basic idea of, How the UI going be to look at the end ? So I drew my basic idea on a paper, would like to share with you.
-<img src="images/UI_Basics.jpg" width="50%">
+<img src="images/UI_Basics.jpg" width="80%">
 
 The above page contains the whole idea of my Application **Covid-19 Global Mapper**.
 
@@ -31,22 +31,22 @@ Since **Colors** is very important because it elevates what is it that we are tr
 
 ## Final Product
 ### 1
-<img src="images/screenshot_1.png" width="50%">
+<img src="images/screenshot_1.png" width="80%">
 
 ### 2
-<img src="images/screenshot_2.png" width="50%">
+<img src="images/screenshot_2.png" width="80%">
 
 ### 3
-<img src="images/screenshot_3.png" width="50%">
+<img src="images/screenshot_3.png" width="80%">
 
 ### 4
-<img src="images/screenshot_4.png" width="50%">
+<img src="images/screenshot_4.png" width="80%">
 
 ### 5
-<img src="images/screenshot_5.png" width="50%">
+<img src="images/screenshot_5.png" width="80%">
 
 ### 6
-<img src="images/screenshot_6.png" width="50%">
+<img src="images/screenshot_6.png" width="80%">
 
 ---
 

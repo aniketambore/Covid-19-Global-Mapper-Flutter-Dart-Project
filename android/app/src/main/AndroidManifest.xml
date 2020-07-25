@@ -11,7 +11,7 @@
         android:label="Covid-19 Global Mapper"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="AIzaSyDWdyCNkCox96K3mvz-JubjwkzubZ4oRhA"/>
+                   android:value="Your API Key here"/>
 
 
         <activity

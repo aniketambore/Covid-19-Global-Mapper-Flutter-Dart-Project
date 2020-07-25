@@ -6,7 +6,7 @@ _Tracking live Covid-19 cases Globally._
 
 In this Application you can track live Covid-19 cases, from all around the world in a Map based view.
 
-##Flutter Plugin's Used :-
+## Flutter Plugin's Used :-
 - [intl](https://pub.dev/packages/intl "intl plugin")
 - [http](https://pub.dev/packages/http "http plugin")
 - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter "font_awesome_flutter plugin")
@@ -14,12 +14,12 @@ In this Application you can track live Covid-19 cases, from all around the world
 
 ---
 
-##Let's Talk About UI
+## Let's Talk About UI
 Before creating the UI, I focused on the Emphasis of User-Interaction and the application.
->Good Experience = Good Interaction
+> Good Experience = Good Interaction
 
 While creating the UI for the Application at the starting point, I am just having the basic idea of, How the UI going be to look at the end ? So I drew my basic idea on a paper, would like to share with you.
-![Basic UI On Paper](images/UI_Basics.jpg)
+<img src="images/UI_Basics.jpg" width="80%">
 
 The above page contains the whole idea of my Application **Covid-19 Global Mapper**.
 
@@ -31,31 +31,31 @@ Since **Colors** is very important because it elevates what is it that we are tr
 
 ## Final Product
 ### 1
-![ScreenShot-1](images/screenshot_1.png)
+<img src="images/screenshot_1.png" width="50%">
 
 ### 2
-![ScreenShot-2](images/screenshot_2.png)
+<img src="images/screenshot_2.png" width="50%">
 
 ### 3
-![ScreenShot-3](images/screenshot_3.png)
+<img src="images/screenshot_3.png" width="50%">
 
 ### 4
-![ScreenShot-4](images/screenshot_4.png)
+<img src="images/screenshot_4.png" width="50%">
 
 ### 5
-![ScreenShot-1](images/screenshot_5.png)
+<img src="images/screenshot_5.png" width="50%">
 
 ### 6
-![ScreenShot-1](images/screenshot_6.png)
+<img src="images/screenshot_6.png" width="50%">
 
 ---
 
-##Download it !
+## Download it !
 **[Covid-19 Global Mapper Apk](https://drive.google.com/file/d/1v2dxtQhV5Wga5kAhRbyJesz-NBv5_qDp/view "Apk")**
 
 ---
 
-##API Reference
+## API Reference
 **[ABOUT-CORONA.NET](https://about-corona.net/documentation "API Docs")**
 
 
